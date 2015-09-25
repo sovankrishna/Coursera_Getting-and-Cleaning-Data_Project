@@ -25,3 +25,4 @@ Variables described over here in the project
 2. Data_X, Data_Y and Sub_Data merge the previous datasets to further analysis.
 3. Full_Data merges Data_X, Data_Y and Sub_Data into a bigger dataset.
 4. The second independant tidy data set is named as "Average_Data" which contains the average of each variable for each activity and each subject.
+
